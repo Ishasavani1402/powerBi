@@ -66,8 +66,3 @@ This project focuses on analyzing **Amazon sales data** to identify sales trends
 - Analytical Thinking
 
 ---
-
-## 🔮 Future Enhancements
-- Add profit and discount analysis
-- Integrate SQL-based data source
-- Publish dashboard to Power BI Service
