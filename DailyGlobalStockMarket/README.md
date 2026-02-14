@@ -1,6 +1,6 @@
-📊 Daily Global Stock Market Analysis – Power BI Dashboard
+# 📊 Daily Global Stock Market Analysis – Power BI Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 This project presents an interactive Power BI dashboard analyzing global stock market indicators on a daily basis.
 The dashboard helps identify trends, volatility, and performance across multiple stock indices and countries using historical market data.
 
@@ -16,7 +16,7 @@ Country-wise stock behavior comparison
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze daily stock market performance globally
 
@@ -30,7 +30,7 @@ Build an interactive dashboard for financial insights
 
 ---
 
-📈 Dashboard Features
+## 📈 Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -64,7 +64,9 @@ Weekday performance analysis
 
 Trend over months/years
 
-🛠 Tools & Technologies Used
+---
+
+## 🛠 Tools & Technologies Used
 
 Power BI – Data visualization & dashboard
 
@@ -76,7 +78,7 @@ Power Query – Data transformation
 
 ---
 
-🚀 How to Use
+## 🚀 How to Use
 
 Download the .pbix file from this repository
 
@@ -88,7 +90,7 @@ Analyze global stock performance insights
 
 ---
 
-📊 Key Insights Generated
+## 📊 Key Insights Generated
 
 Market volatility patterns across countries
 
@@ -102,7 +104,7 @@ Top gainers & losers based on daily change
 
 ---
 
-📌 Business Use Cases
+## 📌 Business Use Cases
 
 Financial market analysis
 
@@ -114,7 +116,7 @@ Economic performance comparison
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Isha Savani
 MCA Student | Data Analyst | Power BI Developer
