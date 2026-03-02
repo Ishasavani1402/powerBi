@@ -1,0 +1,10 @@
+effectively inventory and sales management are critical for optimizing profitability 
+in the retail and wholesale industry compnies need to ensure that they are not incurring
+lossess due to inefficiant pricing , poor inventory turnover or vendor dependency.
+
+the goal of analysis is :
+1.identify underperforming brand that required promotional or pricing adjustment
+2.determine top vendor contributing to sales and gross profit.
+3.analyze the impact of bulk purchasing on unit cost.
+4.assess inventory turnover to reduce holding cost and improve effeciency.
+5.investigate the profitabiity variance between high-performing and low performing

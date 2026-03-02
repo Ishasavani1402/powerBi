@@ -1,0 +1,7 @@
+# Ignore only specific large files
+Vendor Analysis/data/sales.csv
+Vendor Analysis/data/purchases.csv
+Vendor Analysis/data.zip
+
+# Ignore zip files generally
+*.zip
