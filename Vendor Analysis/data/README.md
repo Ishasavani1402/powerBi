@@ -28,7 +28,7 @@ This project analyzes vendor-related business data to:<br>
 ->Analyze purchase & sales trends<br>
 ->Monitor inventory changes<br>
 ->Identify profitability insights<br>
-->Build an executive-level interactive dashboard<r>
+->Build an executive-level interactive dashboard<br>
 ->The project follows a complete analytics pipeline:<br>
 ->Raw CSV Data → Python Processing → SQL Conversion → Final Analytical Table → Power BI Dashboard
 
@@ -148,15 +148,15 @@ Refresh data if needed <br>
 ---
 # 📊 Data Flow Architecture
 CSV Files<br>
-   ↓
+   ↓<br>
 EDA (Python) <br>
-   ↓
+   ↓<br>
 Data Cleaning & Transformation <br>
-   ↓
+   ↓<br>
 Final Analytical Table <br>
-   ↓
+   ↓<br>
 Power BI Dashboard <br>
-   ↓
+   ↓<br>
 Business Insights <br>
 
 ---
