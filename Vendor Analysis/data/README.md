@@ -5,6 +5,7 @@ and Power BI (Interactive Dashboard) to analyze vendor performance, sales, purch
 
 This project demonstrates data cleaning, transformation, SQL integration, exploratory data analysis (EDA), and
 business intelligence reporting in a structured workflow.
+
 ---
 # 📌 Table of Contents
 
@@ -19,7 +20,7 @@ business intelligence reporting in a structured workflow.
 ->Technologies Used<br>
 ->How to Run the Project<br>
 ---
-#🎯 Project Overview
+# 🎯 Project Overview
 
 This project analyzes vendor-related business data to:
 ->Track vendor performance
