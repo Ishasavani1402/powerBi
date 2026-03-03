@@ -8,16 +8,16 @@ business intelligence reporting in a structured workflow.
 ---
 # 📌 Table of Contents
 
-1.Project Overview
-2.Business Problem
-3.Project Architecture
-4.Repository Structure
-5.Dataset Description
-6.Data Processing & Analysis
-7.Power BI Dashboard
-8.Key Metrics & Insights
-9.Technologies Used
-10.How to Run the Project
+->Project Overview<br>
+->Business Problem<br>
+->Project Architecture<br>
+->Repository Structure<br>
+->Dataset Description<br>
+->Data Processing & Analysis<br>
+->Power BI Dashboard<br>
+->Key Metrics & Insights<br>
+->Technologies Used<br>
+->How to Run the Project<br>
 ---
 #🎯 Project Overview
 
